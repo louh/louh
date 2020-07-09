@@ -1,4 +1,14 @@
-### Hi there 👋
+# 🧚🏽 A travel guide. (Last update: 9 July 2020)
+
+**This is a work in progress.**
+
+![Under construction gif 1994](https://media.giphy.com/media/RsTGKbRqSjom4/giphy.gif)
+
+### Iceland
+
+![Iceland](https://photos.smugmug.com/photos/i-S8dJtL5/0/9ce7123b/X3/i-S8dJtL5-X3.jpg)
+
+There's nothing more picturesque than snow, rocks, and a sign of a fish on a stick. Just look at it, basking in the glow of Iceland's never-ending twilight. Well, I guess it ends at some point. I didn't stick around long enough to find out. Protip: bring snacks.
 
 <!--
 **louh/louh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
