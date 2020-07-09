@@ -4,13 +4,13 @@
 
 ![Under construction gif 1994](https://media.giphy.com/media/RsTGKbRqSjom4/giphy.gif)
 
-### Iceland
+## Iceland
 
 ![Iceland](https://photos.smugmug.com/photos/i-S8dJtL5/0/9ce7123b/X3/i-S8dJtL5-X3.jpg)
 
 There's nothing more picturesque than snow, rocks, and a sign of a fish on a stick. Just look at it, basking in the glow of Iceland's never-ending twilight. Well, I guess it ends at some point. I didn't stick around long enough to find out. Protip: bring snacks.
 
-### Dublin, Ireland
+## Dublin, Ireland
 
 ![Ireland](https://photos.smugmug.com/Dublin-Ireland/i-3RwgL53/0/49954213/X3/DSCF6555_edit-X3.jpg)
 
