@@ -37,7 +37,7 @@ I'm writing these based on the template GitHub gave me. No one has ever actually
 
 ### What are you currently working on?
 
-After some thought<sup name="note-1">[1](https://github.com/louh#user-content-superscript-1)</sup>, I've realized the answer — the _real_ answer! — is myself. I'm always working on myself. Some other artifacts may manifest in that process, but ultimately they're in service of helping me be the ~~best~~ latest version of myself I can be. Eh, what's the "best" version of anything? The ecosystem is always changing. You can only hope that the patches keep up.
+After some thought<sup id="note-1">[1](https://github.com/louh#user-content-superscript-1)</sup>, I've realized the answer — the _real_ answer! — is myself. I'm always working on myself. Some other artifacts may manifest in that process, but ultimately they're in service of helping me be the ~~best~~ latest version of myself I can be. Eh, what's the "best" version of anything? The ecosystem is always changing. You can only hope that the patches keep up.
 
 ### What are you currently learning?
 
@@ -57,7 +57,7 @@ Yes.
 
 ### How do I reach you?
 
-Find a mutual friend, then have them introduce you to me at a party. It can't be a one-on-one situation, those are awkward, one that I reserve for the greatest of friends. We need to be at a social gathering, that is not at my house or an office, with other people, music, booze, and snacks. None of those features are more important than the other, they're just signifiers that qualify the setting as an appropriate venue. Then, proceed with your comment or query. P.S. do not e-mail me unless you are okay with a reply in two to six business weeks. P.P.S. do not DM me on a social media platform<sup name="note-2">[2](https://github.com/louh#user-content-superscript-2)</sup>.
+Find a mutual friend, then have them introduce you to me at a party. It can't be a one-on-one situation, those are awkward, one that I reserve for the greatest of friends. We need to be at a social gathering, that is not at my house or an office, with other people, music, booze, and snacks. None of those features are more important than the other, they're just signifiers that qualify the setting as an appropriate venue. Then, proceed with your comment or query. P.S. do not e-mail me unless you are okay with a reply in two to six business weeks. P.P.S. do not DM me on a social media platform<sup id="note-2">[2](https://github.com/louh#user-content-superscript-2)</sup>.
 
 ### What are your pronouns?
 
@@ -70,5 +70,5 @@ I've got twelve fingers.
 
 #### Footnotes
 
-- <span name="superscript-1">[1](https://github.com/louh#user-content-note-1).</span> By some I mean I sat in a cave for seventeen years to arrive at the answer.
-- <span name="superscript-2">[2](https://github.com/louh#user-content-note-2).</span> Unless you want a bullshit answer written by my social media manager, who is an idiot.
+- <span id="superscript-1">[1](https://github.com/louh#user-content-note-1).</span> By some I mean I sat in a cave for seventeen years to arrive at the answer.
+- <span id="superscript-2">[2](https://github.com/louh#user-content-note-2).</span> Unless you want a bullshit answer written by my social media manager, who is an idiot.
