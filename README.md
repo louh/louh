@@ -37,7 +37,7 @@ I'm writing these based on the template GitHub gave me. No one has ever actually
 
 ### What are you currently working on?
 
-After some thought<sup id="note-1">[1](https://github.com/louh#user-content-superscript-1)</sup>, I've realized the answer — the _real_ answer! — is myself. I'm always working on myself. Some other artifacts may manifest in that process, but ultimately they're in service of helping me be the ~~best~~ latest version of myself I can be. Eh, what's the "best" version of anything? The ecosystem is always changing. You can only hope that the patches keep up.
+After some thought<sup id="note-1">[1](https://github.com/louh#user-content-superscript-1)</sup>, I've realized the answer — the _real_ answer! — is myself. I'm always working on myself. Some other artifacts may manifest in that process, but ultimately they're in service of helping me be the ~~best~~ _latest_ version of myself I can be. Eh, what's the "best" version of anything? The ecosystem is always changing. You can only hope that the patches keep up.
 
 ### What are you currently learning?
 
