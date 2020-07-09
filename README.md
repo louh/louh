@@ -12,7 +12,7 @@ There's nothing more picturesque than snow, rocks, and a sign of a fish on a sti
 
 ### Dublin, Ireland
 
-![Ireland](https://photos.smugmug.com/Dublin-Ireland/i-3RwgL53/0/49954213/4K/DSCF6555_edit-4K.jpg)
+![Ireland](https://photos.smugmug.com/Dublin-Ireland/i-3RwgL53/0/49954213/X3/DSCF6555_edit-X3.jpg)
 
 Don't make the same mistake I did: don't fat-finger "Ireland" into your phone when you're trying to get to Reykjavik, only to get off the plane one international flight later and realize everyone still speaks English. Still, you can't say no to the free baskets of Jameson whiskey on literally every corner of town, and it's just another one of those reasons why other countries have superior healthcare systems compared to "global south"-type countries like the United States.
 
