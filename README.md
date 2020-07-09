@@ -1,6 +1,6 @@
 # 🧚🏽 A travel guide. (Last update: 9 July 2020)
 
-I'd like to share the top ten places I've been to (and have photos of), especially now, during a time when most travel is prohibited or epidemiologically insensitive. It's a self care mechanism, more for me than for you.  **This is a work in progress.**
+I'd like to share the top ten places I've been to (and have photos of), especially now, during a time when most travel is prohibited or epidemiologically insensitive. It's a self care mechanism, more for me than for you.  **This is a work in progress, so there are significantly fewer than ten entries right now.**
 
 ![Under construction gif 1994](https://media.giphy.com/media/RsTGKbRqSjom4/giphy.gif)
 
