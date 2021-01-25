@@ -11,9 +11,13 @@ You can [contact me](mailto:lou@louhuang.com) for collaboration opportunities if
 
 Here's an overview of some fairly recent personal and professional projects I like. (Note: this is a WIP, I'll gradually add more when I get around to it.) Links will go to code repositories because if you're on GitHub you might be interested in how I write and organize code. Links to deployments will be present on each repository page.
 
-![Scriptchat](https://user-images.githubusercontent.com/2553268/105752593-7c579a80-5f15-11eb-92c3-581b9e3b69ad.png)
+![Scriptchat](https://raw.githubusercontent.com/louh/louh/main/images/scriptchat.png)
 
 **[Scriptchat](https://github.com/badideafactory/scriptchat)** turns Slack transcripts into screenplays.
+
+![Scriptchat](https://raw.githubusercontent.com/louh/louh/main/images/vision2020_dome.png)
+
+**[Vision 2020: Seat at the Table](https://github.com/badideafactory/vision2020)** commemorates the 100th anniversary of the women’s right to vote with an interactive history exhibit at Philadelphia's Kimmel Center.
 
 
 ## The last word of this page
