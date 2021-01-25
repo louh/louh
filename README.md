@@ -2,7 +2,7 @@
 
 You may remember me from my work with **[Streetmix](https://github.com/streetmix/)**, **[Bad Idea Factory](https://github.com/badideafactory/)**, **[Mapzen](https://github.com/mapzen/)** or  **[Code for America](https://github.com/codeforamerica/)**.
 
-I am a self-employed UI engineer with old-school proficiency in HTML, CSS and JavaScript and new-school opinions on front-end development. My specialties include civic technology, design, and digital mapping, and I almost always work in open source. In a previous life, I worked in architecture and urban design, and I continue to lean on my background and experience there to navigate the murky ethics of technology today.
+I am a UI engineer with old-school proficiency in HTML, CSS and JavaScript and new-school opinions on front-end development. My specialties include civic technology, design, and digital mapping, and I almost always work in open source. In a previous life, I worked in architecture and urban design, and I continue to lean on my background and experience there to navigate the murky ethics of technology today.
 
 You can [contact me](mailto:lou@louhuang.com) for collaboration opportunities if you also believe that all technology work is inherently political (as opposed to apolitical), and in the redistribution of wealth and power in the service of equity for all.
 
