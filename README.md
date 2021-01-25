@@ -15,7 +15,7 @@ Here's an overview of some fairly recent personal and professional projects I li
 
 **[Scriptchat](https://github.com/badideafactory/scriptchat)** turns Slack transcripts into screenplays.
 
-![Scriptchat](https://raw.githubusercontent.com/louh/louh/main/images/vision2020_dome.png)
+![Vision 2020: Seat at the Table](https://raw.githubusercontent.com/louh/louh/main/images/vision2020_dome.jpg)
 
 **[Vision 2020: Seat at the Table](https://github.com/badideafactory/vision2020)** commemorates the 100th anniversary of the women’s right to vote with an interactive history exhibit at Philadelphia's Kimmel Center.
 
