@@ -7,9 +7,9 @@ I am a UI engineer with old-school proficiency in HTML, CSS and JavaScript and n
 You can [contact me](mailto:lou@louhuang.com) for collaboration opportunities if you also believe that all technology work is inherently political (as opposed to apolitical), and in the redistribution of wealth and power in the service of equity for all.
 
 
-## A work-in-progress collection of screenshots from ongoing projects
+## A collection of screenshots from projects
 
-Here's an overview of some fairly recent personal and professional projects I like. (Note: this is a WIP, I'll gradually add more when I get around to it.) Links will go to code repositories because if you're on GitHub you might be interested in how I write and organize code. Links to deployments will be present on each repository page.
+Here's an overview of some fairly recent personal and professional projects I like to show off. Links will go to code repositories because if you're on GitHub you might be interested in how I write and organize code. Links to deployments will be present on each repository page.
 
 ![LCARS](https://raw.githubusercontent.com/louh/lcars/main/public/preview.jpg)
 
