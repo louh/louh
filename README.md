@@ -30,6 +30,10 @@ Here's an overview of some fairly recent personal and professional projects I li
 
 ## Miscellaneous things
 
+New York City's **[MTA subway bullets](https://github.com/louh/mta-subway-bullets)** don't have consistent styling, for some reason. So I made my own.
+
+[![MTA Subway Bullets](https://raw.githubusercontent.com/louh/louh/main/images/mta-subway-bullets.png)](https://github.com/louh/mta-subway-bullets)
+
 I've been playing around with Linux. I made dotfiles but more importantly I made a graphic for **[my dotfiles repo](https://github.com/louh/dotfiles)** that I'm somehow more proud of than learning Linux.
 
 [![dotfiles](https://raw.githubusercontent.com/louh/dotfiles/main/dotfiles.png)](https://github.com/louh/dotfiles)
