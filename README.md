@@ -34,6 +34,10 @@ New York City's **[MTA subway bullets](https://github.com/louh/mta-subway-bullet
 
 [![MTA Subway Bullets](https://raw.githubusercontent.com/louh/louh/main/images/mta-subway-bullets.png)](https://github.com/louh/mta-subway-bullets)
 
+I remade the **[Semiotic Standard icons from _Alien_ (1979)](https://github.com/louh/semiotic-standard)** because I liked it so much I wanted to make stickers of them.
+
+[![Semiotic Standard](https://raw.githubusercontent.com/louh/louh/main/images/semiotic-standard.png)](https://github.com/louh/semiotic-standard)
+
 I've been playing around with Linux. I made dotfiles but more importantly I made a graphic for **[my dotfiles repo](https://github.com/louh/dotfiles)** that I'm somehow more proud of than learning Linux.
 
 [![dotfiles](https://raw.githubusercontent.com/louh/dotfiles/main/dotfiles.png)](https://github.com/louh/dotfiles)
