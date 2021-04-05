@@ -11,6 +11,10 @@ You can [contact me](mailto:lou@louhuang.com) for collaboration opportunities if
 
 Here's an overview of some fairly recent personal and professional projects I like to show off. Links will go to code repositories because if you're on GitHub you might be interested in how I write and organize code. Links to deployments will be present on each repository page.
 
+[![Streetmix](https://raw.githubusercontent.com/louh/louh/main/images/streetmix.png)](https://github.com/streetmix/streetmix)
+
+**[Streetmix](https://github.com/streetmix/streetmix)** is a civic engagement platform for street design. I was one of the founders of this project from Code for America in 2013 and have been maintaining it since.
+
 [![LCARS](https://raw.githubusercontent.com/louh/lcars/main/public/preview.jpg)](https://github.com/louh/lcars)
 
 **[LCARS](https://github.com/louh/lcars)** is the fictional user interface from Star Trek that I've recreated in the browser.
