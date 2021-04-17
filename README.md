@@ -51,3 +51,5 @@ I've been playing around with Linux. I made dotfiles but more importantly I made
 I strongly believe in upholding a healthy work-life balance, and for me, that includes video games, travel, photography, and snowboarding. Here's a photo from Iceland! 😎
 
 [![Iceland](https://photos.smugmug.com/photos/i-S8dJtL5/0/9ce7123b/X3/i-S8dJtL5-X3.jpg)](https://lou.smugmug.com/)
+
+You can see some of my other (public) photos on [Smugmug](https://lou.smugmug.com/).
