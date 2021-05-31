@@ -14,6 +14,10 @@ Here's an overview of some fairly recent personal and professional projects I li
 
 **[Streetmix](https://github.com/streetmix/streetmix)** is a civic engagement platform for street design. I was one of the founders of this project from Code for America in 2013 and have been maintaining it since.
 
+[![Tangram Play](https://raw.githubusercontent.com/louh/louh/main/images/tangram-play.png)](https://github.com/tangrams/tangram-play)
+
+**[Tangram Play](https://github.com/tangrams/tangram-play)** is an editor for Tangram.js, a WebGL-based rendering engine for maps. I worked on this while employed at [Mapzen](https://mapzen.com/).
+
 [![LCARS](https://raw.githubusercontent.com/louh/lcars/main/public/preview.jpg)](https://github.com/louh/lcars)
 
 **[LCARS](https://github.com/louh/lcars)** is the fictional user interface from Star Trek that I've recreated in the browser.
