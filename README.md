@@ -1,6 +1,6 @@
 ### 👋🏼 Hi! I'm Lou.
 
-You may remember me from **[Streetmix](https://github.com/streetmix/)**, **[Bad Idea Factory](https://github.com/badideafactory/)**, **[Mapzen](https://github.com/mapzen/)** or  **[Code for America](https://github.com/codeforamerica/)**. I also have a [personal website](https://louhuang.com/).
+You may remember me from **[Streetmix](https://github.com/streetmix/)**, **[Bad Idea Factory](https://github.com/badideafactory/)**, **[Mapzen](https://github.com/mapzen/)** or  **[Code for America](https://github.com/codeforamerica/)**. This is [my website](https://louhuang.com/).
 
 I am a UI engineer whose experience spans civic technology, design, digital mapping, and gaming, and I almost always work in open source. In a previous life, I worked in architecture and urban design, and that background continues to influence the way I navigate the ethics of technology today.
 
